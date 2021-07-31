@@ -1,0 +1,28 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#wrapper {
+	width:970px;
+    margin: auto;
+    background-color: #f9f9f9;
+
+}
+
+img{
+    border: black 5px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.line1{
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+button{
+    background-color: green;
+    color: white;
+}
